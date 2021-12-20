@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="ja" ReadableName="日本語">
+  <Translations>
+    <Translation ID="TVP_DESC" String="ツリーと車両からPropバージョンを生成します"/>
+    <Translation ID="TRN_CHOICE" String="言語設定(次回から有効)"/>
+    <Translation ID="TRN_SYS" String="システム言語を使用"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="バニラのツリーは全てスキップ"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="生成されたバニラのツリーは、次回のセーブファイルをロードすると消えます"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="アセットのツリーは全てスキップ"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="生成されたアセットのツリーは、次回のセーブファイルをロードすると消えます"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="バニラの車両は全てスキップ"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="生成されたバニラの車両は、次回のセーブファイルをロードすると消えます"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="アセットの車両は全てスキップ"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="生成されたアセットの車両は、次回のセーブファイルをロードすると消えます"/>
+    <Translation ID="TVP_SET_CONF" String="設定ファイル"/>
+    <Translation ID="TVP_SET_CONFFE" String="エクスプローラで開く"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Remove Tree sway from generated custom tree props"/>
+
+  </Translations>
+</Language>

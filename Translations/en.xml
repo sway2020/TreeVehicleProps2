@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language UniqueName="en" ReadableName="English">
+  <Translations>
+    <Translation ID="TVP_DESC" String="Generate a prop version of each tree and vehicle" />
+    <Translation ID="TRN_CHOICE" String="Set language (will be effective next time)" />
+    <Translation ID="TRN_SYS" String="Use system language" />
+    <Translation ID="TVP_SET_VAN_TREE" String="Skip all vanilla trees" />
+    <Translation ID="TVP_SET_VAN_TREETP" String="Generated vanilla tree props will disappear next time when a save file is loaded" />
+    <Translation ID="TVP_SET_CUS_TREE" String="Skip all custom trees" />
+    <Translation ID="TVP_SET_CUS_TREETP" String="Generated custom tree props will disappear next time when a save file is loaded" />
+    <Translation ID="TVP_SET_VAN_VEHI" String="Skip all vanilla vehicles" />
+    <Translation ID="TVP_SET_VAN_VEHITP" String="Generated vanilla vehicle props will disappear next time when a save file is loaded" />
+    <Translation ID="TVP_SET_CUS_VEHI" String="Skip all custom vehicles" />
+    <Translation ID="TVP_SET_CUS_VEHITP" String="Generated custom vehicle props will disappear next time when a save file is loaded" />
+    <Translation ID="TVP_SET_CONF" String="Configuration File" />
+    <Translation ID="TVP_SET_CONFFE" String="Show in File Explorer" />
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Remove Tree sway from generated custom tree props" />
+
+  </Translations>
+</Language>
