@@ -14,7 +14,7 @@ namespace TreeVehicleProps
 {
     public class Mod : IUserMod
     {
-        public const string version = "2.0";
+        public const string version = "2.0.1";
         public string Name => "Tree & Vehicle Props " + version;
         public string Description
         {
@@ -60,7 +60,7 @@ namespace TreeVehicleProps
         {
             if (HarmonyHelper.IsHarmonyInstalled) Patcher.UnpatchAll();
         }
-      
+
         public void OnSettingsUI(UIHelperBase helper)
         {
             try
@@ -124,7 +124,7 @@ namespace TreeVehicleProps
                 UITextField customTagsFilePath = (UITextField)group.AddTextfield(Translations.Translate("TVP_SET_CONF") + " - TreeVehiclePropsConfig.xml", path, _ => { }, _ => { });
                 customTagsFilePath.width = panel.width - 30;
                 group.AddButton(Translations.Translate("TVP_SET_CONFFE"), () => System.Diagnostics.Process.Start(DataLocation.executableDirectory));
-            
+
             }
             catch (Exception e)
             {
