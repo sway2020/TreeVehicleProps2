@@ -14,7 +14,7 @@
     <Translation ID="TVP_SET_CUS_VEHITP" String="生成されたアセットの車両は、次回のセーブファイルをロードすると消えます"/>
     <Translation ID="TVP_SET_CONF" String="設定ファイル"/>
     <Translation ID="TVP_SET_CONFFE" String="エクスプローラで開く"/>
-    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Remove Tree sway from generated custom tree props"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="アセットのツリーで生成したPropバージョンから、ツリーの揺らぎを削除"/>
 
   </Translations>
 </Language>

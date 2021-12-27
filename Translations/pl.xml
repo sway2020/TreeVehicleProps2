@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="pl" ReadableName="Polish">
+  <Translations>
+    <Translation ID="TVP_DESC" String="Wygeneruje dekoracje dla każdego drzewa i pojazdu"/>
+    <Translation ID="TRN_CHOICE" String="Ustaw język (będzie efektywniejszy po restarcie)"/>
+    <Translation ID="TRN_SYS" String="Użyj języka systemowego"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="Pomiń wszystkie standardowe drzewa"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="Wygenerowany bez terenu zgodny z obiektem standardowym zniknie następnym razem, gdy zapisany plik zostanie załadowany"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="Pomiń wszystkie niestandardowe drzewa"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="Wygenerowane niestandardowe obiekty drzewa znikną następnym razem, gdy zostanie załadowany plik zapisu"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="Pomiń wszystkie standardowe pojazdy"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="Wygenerowane standardowe pojazdy znikną następnym razem, gdy zapisany plik zostanie załadowany"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="Pomiń wszystkie niestandardowe pojazdy"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="Wygenerowane niestandardowe obiekty pojazdu znikną po załadowaniu pliku zapisu"/>
+    <Translation ID="TVP_SET_CONF" String="Pliki Konfiguracyjne"/>
+    <Translation ID="TVP_SET_CONFFE" String="Pokaż w Eksploratorze plików"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Usuń niestandardowe drzewo z wygenerowanych obiektów"/>
+
+  </Translations>
+</Language>

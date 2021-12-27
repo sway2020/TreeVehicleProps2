@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language UniqueName="ru" ReadableName="Русский">
   <Translations>
-    <Translation ID="TVP_DESC" String="Создание размещаемых объектов из деревьев и транспортных средств" />
-    <Translation ID="TRN_CHOICE" String="Выбор языка (применится при следующей загрузке)" />
-    <Translation ID="TRN_SYS" String="Использ. системный" />
-    <Translation ID="TVP_SET_VAN_TREE" String="Не загружать ванильные деревья" />
-    <Translation ID="TVP_SET_VAN_TREETP" String="Созданные модом ванильные деревья исчезнут при следующей загрузке" />
-    <Translation ID="TVP_SET_CUS_TREE" String="Не загружать деревья из модов" />
-    <Translation ID="TVP_SET_CUS_TREETP" String="Созданные деревья из модов исчезнут при следующей загрузке" />
-    <Translation ID="TVP_SET_VAN_VEHI" String="Не загружать ванильный транспорт" />
-    <Translation ID="TVP_SET_VAN_VEHITP" String="Созданные модом размещаемые ванильные транспортные средства исчезнут при следующей загрузке" />
-    <Translation ID="TVP_SET_CUS_VEHI" String="Не загружать транспорт из модов" />
-    <Translation ID="TVP_SET_CUS_VEHITP" String="Созданные размещаемые транспортные средства из модов исчезнут при следующей загрузке" />
-    <Translation ID="TVP_SET_CONF" String="Файл конфигурации" />
-    <Translation ID="TVP_SET_CONFFE" String="Показать в Проводнике" />
-    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Убрать раскачивание из созданных деревьев" />
- 
+    <Translation ID="TVP_DESC" String="Создание размещаемых объектов из деревьев и транспортных средств"/>
+    <Translation ID="TRN_CHOICE" String="Выбор языка (применится при следующей загрузке)"/>
+    <Translation ID="TRN_SYS" String="Использ. системный"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="Не загружать ванильные деревья"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="Созданные модом ванильные деревья исчезнут при следующей загрузке"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="Не загружать деревья из модов"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="Созданные деревья из модов исчезнут при следующей загрузке"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="Не загружать ванильный транспорт"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="Созданные модом размещаемые ванильные транспортные средства исчезнут при следующей загрузке"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="Не загружать транспорт из модов"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="Созданные размещаемые транспортные средства из модов исчезнут при следующей загрузке"/>
+    <Translation ID="TVP_SET_CONF" String="Файл конфигурации"/>
+    <Translation ID="TVP_SET_CONFFE" String="Показать в Проводнике"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Убрать раскачивание из созданных деревьев"/>
+
   </Translations>
 </Language>

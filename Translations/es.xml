@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="es" ReadableName="Español">
+  <Translations>
+    <Translation ID="TVP_DESC" String="Genera una versión prop por cada árbol y vehículo"/>
+    <Translation ID="TRN_CHOICE" String="Establecer idioma (se hará efectivo la próxima vez que inicie el juego)"/>
+    <Translation ID="TRN_SYS" String="Utilizar el idioma del juego"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="Omitir todos los árboles que viene por defecto"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="Los props generados de los árboles que vienen en el juego desaparecerán la próxima vez que se cargue un archivo guardado"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="Omitir todos los árboles personalizados"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="Los props generados de los árboles personalizados desaparecerán la próxima vez que se cargue un archivo guardado"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="Omitir todos los vehículos por defecto del juego"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="Los props generados de los vehículos que vienen en el juego desaparecerán la próxima vez que se cargue un archivo guardado"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="Omitir todos los vehículos personalizados"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="Los props generados de los vehículos personalizados desaparecerán la próxima vez que se cargue un archivo guardado"/>
+    <Translation ID="TVP_SET_CONF" String="Archivo de Configuración"/>
+    <Translation ID="TVP_SET_CONFFE" String="Mostrar en Explorador de Archivos"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Eliminar el movimiento de los árboles de los props personalizados generados"/>
+
+  </Translations>
+</Language>

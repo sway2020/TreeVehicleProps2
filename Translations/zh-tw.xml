@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="zh-tw" ReadableName="繁體中文">
+  <Translations>
+    <Translation ID="TVP_DESC" String="為所有樹木和交通工具生成道具版本"/>
+    <Translation ID="TRN_CHOICE" String="語言設置 (下次生效)"/>
+    <Translation ID="TRN_SYS" String="使用系統默認語言"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="跳過非玩家自製樹木"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="已放置的道具版本非玩家自製樹木將在下次讀檔時消失"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="跳過玩家自製樹木"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="已放置的道具版本玩家自製樹木將在下次讀檔時消失"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="跳過非玩家自製交通工具"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="已放置的道具版本非玩家自製交通工具將在下次讀檔時消失"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="跳過玩家自製交通工具"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="已放置的道具版本玩家自製交通工具將在下次讀檔時消失"/>
+    <Translation ID="TVP_SET_CONF" String="配置文件"/>
+    <Translation ID="TVP_SET_CONFFE" String="在檔案總管中顯示"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="移除生成的樹木道具的隨風搖擺效果"/>
+
+  </Translations>
+</Language>
