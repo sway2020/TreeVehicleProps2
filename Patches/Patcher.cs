@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace TreeVehicleProps
 {
-    public static class Patcher
+    internal static class Patcher
     {
         private const string HarmonyId = "sway.TreeVehicleProps";
 
