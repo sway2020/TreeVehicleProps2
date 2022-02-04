@@ -146,6 +146,12 @@ namespace TreeVehicleProps
         public override void OnLevelUnloading()
         {
             Mod.PrefabsInitialized = false;
+            Mod.propToVehicleCloneMap.Clear();
+            Mod.propToTreeCloneMap.Clear();
+            Mod.generatedVehicleProp.Clear();
+            Mod.generatedTreeProp.Clear();
+            Mod.propVehicleInfoTable.Clear();
+            Mod.duplicateVehiclePropsInfoTable.Clear();
         }
 
     }
