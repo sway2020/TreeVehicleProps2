@@ -2,6 +2,7 @@
 using System;
 using UnityEngine;
 using System.Collections.Generic;
+using ColossalFramework.UI;
 
 namespace TreeVehicleProps
 {
@@ -10,6 +11,14 @@ namespace TreeVehicleProps
         public static Shader shader = Shader.Find("Custom/Props/Prop/Default");
         public override void OnLevelLoaded(LoadMode mode)
         {
+            if (Mod.templateProp == null)
+            {
+                ExceptionPanel panel = UIView.library.ShowModal<ExceptionPanel>("ExceptionPanel");
+                panel.SetMessage("Critical_Error", $"TreeVehicleProps mod:\n\nFailed to load the conversion template prop\n\nThis is a critical error\n\nDO NOT OVERWRITE your save", true);
+                return;
+            }
+
+
             foreach (KeyValuePair<PropInfo, VehicleInfo> keyValuePair in Mod.propToVehicleCloneMap)
             {
                 PropInfo key = keyValuePair.Key;
