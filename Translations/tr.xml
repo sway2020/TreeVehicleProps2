@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="tr" ReadableName="Türkçe">
+  <Translations>
+    <Translation ID="TVP_DESC" String="Her ağacın ve aracın bir destek sürümünü oluşturun"/>
+    <Translation ID="TRN_CHOICE" String="Dili ayarla (bir dahaki sefere etkili olacak)"/>
+    <Translation ID="TRN_SYS" String="Sistem dilini kullan"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="Tüm vanilla ağaçlarını atla"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="Oluşturulan vanilla ağacı parçaları, bir dahaki sefere bir kaydetme dosyası yüklendiğinde kaybolacak"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="Tüm özel ağaçları atla"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="Oluşturulan özel ağaç destekleri, bir dahaki sefere bir kaydetme dosyası yüklendiğinde kaybolacak"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="Tüm vanilla araçlarını atla"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="Bir dahaki sefere bir kaydetme dosyası yüklendiğinde, oluşturulan vanilla araç aksesuarları kaybolacak"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="Tüm özel araçları atla"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="Oluşturulan özel araç donanımları, bir dahaki sefere bir kaydetme dosyası yüklendiğinde kaybolacak"/>
+    <Translation ID="TVP_SET_CONF" String="Yapılandırma Dosyası"/>
+    <Translation ID="TVP_SET_CONFFE" String="Dosya Gezgini'nde Göster"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Oluşturulan özel ağaç desteklerinden Ağaç salınımını kaldırın"/>
+
+  </Translations>
+</Language>

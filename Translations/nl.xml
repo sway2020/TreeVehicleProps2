@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="nl" ReadableName="Nederlands">
+  <Translations>
+    <Translation ID="TVP_DESC" String="Genereer een prop versie van elke boom en voertuig"/>
+    <Translation ID="TRN_CHOICE" String="Taal instellen (zal de volgende keer van kracht zijn)"/>
+    <Translation ID="TRN_SYS" String="Gebruik systeemtaal"/>
+    <Translation ID="TVP_SET_VAN_TREE" String="Sla alle vanilla bomen over"/>
+    <Translation ID="TVP_SET_VAN_TREETP" String="Gegenereerde vanilla boom props zullen de volgende keer verdwijnen als een opslagbestand wordt geladen"/>
+    <Translation ID="TVP_SET_CUS_TREE" String="Sla alle aangepaste bomen over"/>
+    <Translation ID="TVP_SET_CUS_TREETP" String="Gegenereerde aangepaste boom props zullen de volgende keer verdwijnen als een opslagbestand wordt geladen"/>
+    <Translation ID="TVP_SET_VAN_VEHI" String="Sla alle vanilla voertuigen over"/>
+    <Translation ID="TVP_SET_VAN_VEHITP" String="Gegenereerde vanilla voertuig props zullen de volgende keer verdwijnen als een opslagbestand wordt geladen"/>
+    <Translation ID="TVP_SET_CUS_VEHI" String="Sla alle aangepaste voertuigen over"/>
+    <Translation ID="TVP_SET_CUS_VEHITP" String="Gegenereerde aangepaste voertuig props zullen de volgende keer verdwijnen als een opslagbestand wordt geladen"/>
+    <Translation ID="TVP_SET_CONF" String="Configuratiebestand"/>
+    <Translation ID="TVP_SET_CONFFE" String="Toon bestand in verkenner"/>
+    <Translation ID="TVP_SET_CUS_TREE_SWAY" String="Verwijder zwaaien van bomen van gegenereerde aangepaste boom props"/>
+
+  </Translations>
+</Language>
