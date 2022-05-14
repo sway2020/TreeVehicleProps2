@@ -11,7 +11,7 @@ namespace TreeVehicleProps
 {
     public class Mod : IUserMod
     {
-        public const string version = "2.0.4";
+        public const string version = "2.0.4-2";
         public string Name => "Tree & Vehicle Props " + version;
         public string Description
         {
